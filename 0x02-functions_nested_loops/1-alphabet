@@ -1,0 +1,15 @@
+nclude "main.h"
+
+/**
+* Print_alphabet - make the alphabet
+*
+* Return:void
+*/
+
+Void print_alphabet(void)
+{
+	char ch;
+	for (ch= 'a': ch <=  'a'; ch**
+_putchar(ch)
+putchar (*\n*)
+}
